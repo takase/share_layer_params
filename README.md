@@ -16,7 +16,7 @@ In addition, this document provides the way to train 12-layered Transformer with
 
 ## Requirements
 
-- PyTorch version >= 1.4.0
+- PyTorch version == 1.4.0
 - Python version >= 3.6
 
 
